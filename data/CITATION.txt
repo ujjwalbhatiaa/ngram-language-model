@@ -1,0 +1,16 @@
+Corpora used (public domain, via Project Gutenberg):
+
+- alice_wonderland.txt
+  Carroll, Lewis. "Alice's Adventures in Wonderland." Project Gutenberg
+  eBook #11. https://www.gutenberg.org/ebooks/11
+  Public domain in the United States and Canada.
+
+- sherlock_holmes.txt
+  Doyle, Arthur Conan. "The Adventures of Sherlock Holmes." Project
+  Gutenberg eBook #1661. https://www.gutenberg.org/ebooks/1661
+  Public domain in the United States and Canada.
+
+Both files here are the plain-text story body only (Project Gutenberg's
+license/header/footer boilerplate stripped, smart quotes normalized to
+plain ASCII) — used purely as a text corpus for training/evaluating n-gram
+language models, not redistributed as a Gutenberg eBook.
